@@ -1,0 +1,8 @@
+[submodule "assets/scripts/core"]
+	path = assets/scripts/core
+	url = https://github.com/cocoscreator-ru/core.git
+	branch = main
+[submodule "typescript-code-agreement"]
+	path = typescript-code-agreement
+	url = https://github.com/Lestrigon17/typescript-code-agreement
+	branch = main
