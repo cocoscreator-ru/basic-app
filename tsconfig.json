@@ -1,0 +1,14 @@
+{
+  /* Base configuration. Do not edit this field. */
+  "extends": "./temp/tsconfig.cocos.json",
+
+  /* Add your custom configuration here. */
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": [ "dom", "ES2017", "ES2017.Intl", "ES2017.Object", "ES2017.String", "ES2017.TypedArrays" ],
+    "target": "ES2017",
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "strict": true
+  }
+}
